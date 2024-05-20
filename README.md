@@ -1,1 +1,1 @@
-An iterative app to pratique button behavior
+An interactive app to pratique button behavior
